@@ -1,0 +1,29 @@
+{
+  "name": "alchemy-js",
+  "version": "1.0.0",
+  "description": "JS learinin w/ AU",
+  "main": "JS_learning",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a4soon/JS_learning.git"
+  },
+  "keywords": [
+    "Java",
+    "Script",
+    "Alchemy",
+    "Alchemist",
+    "Buildspace"
+  ],
+  "author": "a4soon",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/a4soon/JS_learning/issues"
+  },
+  "homepage": "https://github.com/a4soon/JS_learning#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
